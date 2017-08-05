@@ -1,0 +1,31 @@
+59
+2015-516-820
+2015-16
+Computer Science and Engineering
+Aladin
+Mr. X
+Mrs. Y
+26/10/1997
+null
+null
+Shahidullah Hall
+1st
+1st
+aladinsojon@gmail.com
+null
+null
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+falsefalse
+0
+false

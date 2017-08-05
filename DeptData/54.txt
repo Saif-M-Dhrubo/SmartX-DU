@@ -1,0 +1,31 @@
+54
+2015-116-815
+2015-16
+Computer Science and Engineering
+Saif Mahmud
+Md. Mahmudul Karim
+Nargis Sultana
+18/01/1997
+null
+null
+Shahidullah Hall
+2nd
+1st
+saif.dhrubo@gmail.com
+null
+null
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+null
+0.0
+falsefalse
+0
+false
