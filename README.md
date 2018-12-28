@@ -1,4 +1,7 @@
 # SmartX-DU
+
+A Desktop Application for Semester Final Student Enrollment Management at the University of Dhaka 
+
 **Features:**
 - Student Registration
 - Departmental, Residential Hall and Exam Controller Office Control Panel
